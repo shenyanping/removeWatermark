@@ -1,0 +1,6 @@
+# Spring??
+server:
+  port: 8086
+spring:
+  profiles:
+    active: local
